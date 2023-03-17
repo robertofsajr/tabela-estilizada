@@ -43,3 +43,8 @@ td{
     padding: 10px;
     background-color: #424250;
 }
+
+th:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}

@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    font-size: 35px;
+}
+
+
+
+p {
+    margin: 30px;
+    
+   
+
+}
+
+
+table{
+    margin: 30px;
+    font-size: 30px;
+    background-color: #ffffff;
+    color: aliceblue;
+
+  
+   
+    
+    
+}
+
+.cabecalho-tabela-moda{
+    background-color:#bb86fc;
+    
+}
+
+.cabecalho-tabela-casa{
+    background-color: #00c4b4;
+}
+
+th{
+    text-align: center;
+    padding: 10px;
+}
+
+td{
+    padding: 10px;
+    background-color: #424250;
+}
